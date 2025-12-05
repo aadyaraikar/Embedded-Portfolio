@@ -1,7 +1,7 @@
 LED Blink Project
 This is my first Arduino project
 
-##In this project, I experimented with:
+In this project, I experimented with:
 - Synchronous blinking (both LEDs together)
 - Alternating blinking (LEDs opposite to each other)
 - Different delay intervals
